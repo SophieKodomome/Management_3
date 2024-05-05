@@ -6,7 +6,7 @@
     <li>Next</li>
     <li>Finance</li>
     <li>Spring</li>
-    <li>Formdisk</li>
+    <li>Formik</li>
   </ul>
   <h2>To do list</h2>
   <ol>

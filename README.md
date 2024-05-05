@@ -2,13 +2,13 @@
 <h2>Technology &#x1F680;</h2>
 <li>React</li>
   <ul>
-    <li>Yarn &1F400; </li>
-    <li>Next &#1F680;</li>
-    <li>Finance &#1F4BC;</li>
-    <li>Spring &#1F33B;</li>
-    <li>Formik &#1F4C4;</li>
+    <li>Yarn &#x1F400; </li>
+    <li>Next &#x1F680;</li>
+    <li>Finance &#x1F4BC;</li>
+    <li>Spring &#x1F33B;</li>
+    <li>Formik &#x1F4C4;</li>
   </ul>
-  <h2>To do list &#1F4CB;</h2>
+  <h2>To do list &#x1F4CB;</h2>
   <ol>
     <li>Create React App</li>
     <li>Create Form Emprunt</li>

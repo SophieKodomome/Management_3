@@ -1,0 +1,6 @@
+instruction for initialisation
+cmd 
+commands:
+-npm install --global yarn
+-yarn
+-yarn create next-app [your app name]

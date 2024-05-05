@@ -1,14 +1,14 @@
 <h1>Management 2</h1>
-<h2>Technology</h2>
+<h2>Technology &#x1F680;</h2>
 <li>React</li>
   <ul>
-    <li>Yarn</li>
-    <li>Next</li>
-    <li>Finance</li>
-    <li>Spring</li>
-    <li>Formik</li>
+    <li>Yarn &1F400; </li>
+    <li>Next &#1F680;</li>
+    <li>Finance &#1F4BC;</li>
+    <li>Spring &#1F33B;</li>
+    <li>Formik &#1F4C4;</li>
   </ul>
-  <h2>To do list</h2>
+  <h2>To do list &#1F4CB;</h2>
   <ol>
     <li>Create React App</li>
     <li>Create Form Emprunt</li>

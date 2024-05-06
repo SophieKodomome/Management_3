@@ -64,3 +64,9 @@ body {
   background-color: rgb(14 165 233);
   font-weight: 600;
 }
+
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

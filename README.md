@@ -10,20 +10,20 @@
   </ul>
   <h2>To do list &#x1F4CB;</h2>
   <ol>
-    <li>Create React App</li>
-    <li>Create Form Emprunt</li>
+    <li>(ok)Create React App</li>
+    <li>(ok)Create Form Emprunt</li>
       <ul>
-        <li>form Motive</li>
-        <li>form Initial Investment</li>
-        <li>form CashFlow</li>
-        <li>form Discount Rate</li>
-        <li>form Time Period</li>
+        <li>(ok)form Motive</li>
+        <li>(ok)form Initial Investment</li>
+        <li>(ok)form CashFlow</li>
+        <li>(ok)form Discount Rate</li>
+        <li>(ok)form Time Period</li>
         <ul>
-          <li>should be able to adpat itself in month/year/semester/trimester/decade</li>
+          <li>(ok)should be able to adpat itself in month/year/semester/trimester/decade</li>
         </ul>
-        <li>button submit</li>
+        <li>(ok)button submit</li>
       </ul>
-    <li>Create constraint</li>
+    <li>(ok)Create constraint</li>
     <li>Create (or search) class(library) finance</li>
     <li>function getNetPresentValue()</li>
     <li>function getInvertReturnRate</li>
